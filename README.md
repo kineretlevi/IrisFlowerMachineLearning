@@ -11,8 +11,9 @@
 ### Splitting our dataset into train-80% of data and test-20% of data 
 
 ## 3. Using two algorithms to Classify the flowers:
-### First Algorithm K-Nearest Neighbors (KNN)
-### Second algorithm Linear Discriminant Analysis (LDA)
+### First algorithm Linear Discriminant Analysis (LDA)
+### Second algorithm Support Vector Machines (SVM)
+
 
 # Setup
 ### contain 2 files of python and ipynb
